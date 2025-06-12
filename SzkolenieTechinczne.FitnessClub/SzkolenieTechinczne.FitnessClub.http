@@ -1,0 +1,6 @@
+@SzkolenieTechinczne.FitnessClub_HostAddress = http://localhost:5191
+
+GET {{SzkolenieTechinczne.FitnessClub_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
